@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Latif Vaid</h1>
 <h3 align="center">Adaptable computer science student who constantly looks for inspiration to increase knowledge and growth in software development. Displays the confidence and ability to work autonomously on new endeavors, provide inputs, and lead in group projects. Seeking a career that advances analytical and web application skills as well as technological acumen.</h3>
 
+<img align="right" alt="Coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4704yunredu78qjfj6jl45o1ubk06zk3ny97v2kha5&rid=giphy.gif&ct=g">
+
 - 🌱 I’m currently learning **at University of Illinois at Chicago**
 
 - 💬 Ask me about **C++**
